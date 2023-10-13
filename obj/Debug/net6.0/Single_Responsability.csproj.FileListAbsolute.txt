@@ -1,0 +1,14 @@
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\bin\Debug\net6.0\Single_Responsability.exe
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\bin\Debug\net6.0\Single_Responsability.deps.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\bin\Debug\net6.0\Single_Responsability.runtimeconfig.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\bin\Debug\net6.0\Single_Responsability.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\bin\Debug\net6.0\Single_Responsability.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\refint\Single_Responsability.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\Single_Responsability.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\SOLID_Pricipal\obj\Debug\net6.0\ref\Single_Responsability.dll
