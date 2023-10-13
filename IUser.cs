@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Single_Responsability
 {
-    internal class IUser
+    interface IUser
     {
+        bool Login(string username, string password);
+        bool Register(string username, string password, string email);
+
+        void LogError(string error); // ce n'est pas dans la résponsabilité de l'interface IUser
+        bool SendEmail(string emailContent); // ce n'est pas dans la résponsabilité de l'interface IUser        
     }
 }
